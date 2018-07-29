@@ -11,6 +11,7 @@ public class classCours
 		int[] marchands = new int[nbEmplacements];
 		for (int marchand =0; marchand <5; marchand++) {
 			marchands[marchand] = entrée.nextInt();
+			System.out.println("je ne suis pas un heroooo");
 		}
   }
 }
